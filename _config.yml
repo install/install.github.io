@@ -1,0 +1,8 @@
+title: Install.github.io
+description: Austin Puri
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
